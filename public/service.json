@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Wedding Photography",
+        "price": "300",
+        "img": "https://i.ibb.co/gyM5fQm/alfonso-lorenzetto-ESYItgx-Bx-8-unsplash.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Portraits Photography ",
+        "price": "100",
+        "img": "https://i.ibb.co/TL9MX3n/aziz-acharki-Jbe-OGV0p-IHs-unsplash.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Commercial Photography",
+        "price": "150",
+        "img": "https://i.ibb.co/MVgJdjv/mnz-To-LMORRb97-Q-unsplash.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Kiddi Party",
+        "price": "180",
+        "img": "https://i.ibb.co/MSy9XFs/freestocks-ql-S6v-MR2-Pp-U-unsplash.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Food Photography",
+        "price": "100",
+        "img": "https://i.ibb.co/R4zBtpQ/engin-akyurt-j0-Rs-NT1-Vxz-U-unsplash.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Short Film",
+        "price": "300",
+        "img": "https://i.ibb.co/9c77BWP/jakob-owens-Ci-UR8z-ISX60-unsplash.jpg"
+    }
+]
