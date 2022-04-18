@@ -1,9 +1,11 @@
 import React, { useRef } from 'react';
 import { Button, Form } from 'react-bootstrap';
+import { Link, useNavigate } from 'react-router-dom';
 
 const Login = () => {
     const emailRef = useRef('');
     const passwordRef = useRef('');
+    //const navigate = useNavigate();
 
     const handleSubmit = event =>{
         event.preventDefault();
@@ -11,6 +13,10 @@ const Login = () => {
         const password = passwordRef.current.value;
         console.log(email, password)
     }
+
+    // const navigateToRegister = event =>{
+    //     navigate('/register');
+    // }
 
     return (
         <div className='container w-50 p-3'>
@@ -30,6 +36,7 @@ const Login = () => {
                     Login
                 </Button>
             </Form>
+            <p>New to The Lens King? <Link to='/register' className='text-danger pe-auto text-decoration-none'>Please Register</Link></p>
         </div>
     );
 };
