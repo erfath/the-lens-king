@@ -3,36 +3,42 @@
         "id": 1,
         "name": "Wedding Photography",
         "price": "300",
+        "description":"Part of getting married means hiring professional helpers (like me) to take care of aspects of your big day. The wedding photography being just one entry on a long (and seemingly endless) to-do list.",
         "img": "https://i.ibb.co/z7k2W6W/eugenivy-now-1-Bs2s-Z9f-D2-Q-unsplash.jpg"
     },
     {
         "id": 2,
         "name": "Portraits Photography ",
         "price": "100",
+        "description":"Portrait photography is the process of taking a subject's picture in an attempt to capture their personality. The element of consent separates portrait photography from every other type of photography involving people on the frame.",
         "img": "https://i.ibb.co/mRXXhcj/muhammad-ruqi-yaddin-hx-Lv1jq-P0-o-unsplash.jpg"
     },
     {
         "id": 3,
         "name": "Commercial Photography",
         "price": "150",
+        "description":"Broadly, commercial photography refers to photography that is used to sell or promote a product or service, or otherwise support a business or organization in making more money. Often, this can refer to product photography, lifestyle photography, and even fashion photography.",
         "img": "https://i.ibb.co/MVgJdjv/mnz-To-LMORRb97-Q-unsplash.jpg"
     },
     {
         "id": 4,
         "name": "Kiddie Party",
         "price": "180",
+        "description":"A children's party or kids' party is a party for children such as a birthday party or tea party. Since medieval times, children have dressed specially for such occasions. Children's birthday parties originated in Germany as kinderfeste",
         "img": "https://i.ibb.co/MSy9XFs/freestocks-ql-S6v-MR2-Pp-U-unsplash.jpg"
     },
     {
         "id": 5,
         "name": "Food Photography",
         "price": "100",
+        "description":"Food photography is a still life photography genre used to create attractive still life photographs of food. It is a specialization of commercial photography, the products of which are used in advertisements, magazines, packaging, menus or cookbooks.",
         "img": "https://i.ibb.co/R4zBtpQ/engin-akyurt-j0-Rs-NT1-Vxz-U-unsplash.jpg"
     },
     {
         "id": 6,
         "name": "Short Film",
         "price": "300",
+        "description":"A short film is any motion picture that is short enough in running time not to be considered a feature film. The Academy of Motion Picture Arts and Sciences defines a short film as an original motion picture that has a running time of 40 minutes or less, including all credits",
         "img": "https://i.ibb.co/9c77BWP/jakob-owens-Ci-UR8z-ISX60-unsplash.jpg"
     }
 ]
