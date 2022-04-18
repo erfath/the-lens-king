@@ -12,6 +12,7 @@ import Register from './Pages/Login/Register/Register';
 import Checkout from './Pages/Checkout/Checkout/Checkout';
 import RequireAuth from './Pages/Login/RequireAuth/RequireAuth';
 import Confirmation from './Pages/Checkout/Confirmation/Confirmation';
+import Blog from './Pages/Blog/Blog';
 
 function App() {
   return (
@@ -30,6 +31,7 @@ function App() {
         </RequireAuth>
       }></Route>
       <Route path='/confirmation' element={<Confirmation></Confirmation>}></Route>
+      <Route path='/blog' element={<Blog></Blog>}></Route>
       <Route path='*' element={<NotFound></NotFound>}></Route>
     </Routes>
     <Footer></Footer>
